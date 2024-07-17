@@ -1,5 +1,5 @@
 # CONTRIBUTING
-To add your own sprite, costume or sound to PenguinMod:
+To add your own sprite, costume or sound to DinosaurMod:
 - All content must be **Public Domain** or **MIT Licensed** (No Exceptions!)
 - All sounds must be .mp3 format
 - All costumes must be .svg or .png format
